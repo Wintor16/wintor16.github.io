@@ -147,13 +147,14 @@ nav ul li a:hover {
     vertical-align: top;
     position: relative;
     overflow:visible;
-    border-radius: px;
+    border-radius: 5%;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease;
     margin-bottom: 6%;
     padding: 20px;
     background-color: #fff;
     border-radius: 5%;
+    margin-top: 5%;
 }
 
 .product:hover {
