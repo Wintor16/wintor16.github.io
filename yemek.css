@@ -121,9 +121,9 @@ nav ul li a:hover {
 #hero {
     background: #34495e;
     color: #fff;
-    padding: 10% 10%;
+    padding: 5% 0%;
     text-align: center;
-    margin-bottom: 5%;
+
 }
 
 #hero h2 {
